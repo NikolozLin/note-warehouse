@@ -33,7 +33,7 @@
    - [electron-builder](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2Felectron-userland%2Felectron-builder)
    - [electron-packager](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2Felectron%2Felectron-packager)
 
-   根据生态 和易用性 选择 electron- builder，vue项目可以使用背景提到的插件
+   根据生态 和易用性 选择 electron- builder，vue项目可以使用背景提到的基于electron-builder的插件。
 
 2. 自动更新工具 Electron-updater
 
@@ -93,13 +93,8 @@
      - 原来存在安装文件，在同一个目录下安装
 
 2. 服务器添加安装包的静态服务
-   1. 
 
-- 
+3. 添加electron-updater 相关配置
 
-- 更新版本
 
-  修改 package.json 中 version 字段，打包
-
-  
 
