@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "43248a37cb67d6c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "492181ca02ee8efb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74ead2f61094ceff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7352f508f91893f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59cf8be0bc6f75af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b7f26ea42ccf60e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ab064d8b575a8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "969917172fe06109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e121ea5fa17ce9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "492181ca02ee8efb",
+  "lastOpenFiles": [
+    "未命名.md",
+    "社科人文 阅读/置身事内 阅读大纲.md",
+    "常规方案/十万数据列表渲染如何处理.md",
+    "浏览器/BLob关联的数据类型.md"
+  ]
+}
