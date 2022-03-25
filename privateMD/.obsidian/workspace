@@ -7,12 +7,8 @@
         "id": "f01da72aed9d8913",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "浏览器/未命名.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.01364135742188,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "3ab064d8b575a8ac",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "浏览器/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +84,15 @@
   },
   "active": "f01da72aed9d8913",
   "lastOpenFiles": [
-    "浏览器/未命名.md",
+    "前端项目工程化/ES6 module 和CommonJS 区别.md",
     "浏览器/浏览器输入到渲染原理.md",
-    "Pasted image 20220322161239.png",
     "浏览器/浏览器的url到输出内容.md",
+    "浏览器/未命名.md",
+    "Pasted image 20220322161239.png",
     "浏览器/BLob关联的数据类型.md",
     "vue设计与实现阅读/思维导图/一、框架设计概览.md",
     "vue设计与实现阅读/思维导图/第一篇、框架设计概览.md",
     "Drawing 2022-03-16 16.09.25.excalidraw.md",
-    "test.md",
-    "Excalidraw/Drawing 2022-03-18 12.20.13.excalidraw.md"
+    "test.md"
   ]
 }
