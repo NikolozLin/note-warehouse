@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "43248a37cb67d6c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ae53a3a76e8a294",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "活动策划/未命名.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74ead2f61094ceff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7352f508f91893f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59cf8be0bc6f75af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b7f26ea42ccf60e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "arraybu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "3ab064d8b575a8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a19db2a2943dff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929889ceb14687b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "活动策划/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0687c611bf3f7013",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187.5,
+    "collapsed": true
+  },
+  "active": "4ae53a3a76e8a294",
+  "lastOpenFiles": [
+    "1 八股文/HTTP 大纲.md",
+    "常规方案/十万数据列表渲染如何处理.md",
+    "常规方案/单点登录.md",
+    "常规方案/并发控制.md",
+    "常规方案/大文件上传.md",
+    "Excalidraw/Drawing 2022-10-12 12.11.29.excalidraw.md",
+    "浏览器/Web中的数据类型.md",
+    "Node/Buffer.md",
+    "JS/动态类型转换.md",
+    "JS/Url 、Blob 、 Base64 格式转化.md"
+  ]
+}

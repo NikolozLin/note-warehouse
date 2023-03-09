@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "content-margin20"
+  ],
+  "accentColor": "",
+  "theme": "system"
+}

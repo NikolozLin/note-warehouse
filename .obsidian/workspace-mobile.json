@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ec4456493f92f73f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c1920ab12fe47ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0301fceeea422d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/BFC 和IFC.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1d40f45f236aef8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ce22653698c5477c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "763f88e0714a191d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f560275e287ee1fd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0d4c766289091d31",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e647bd518bf48514",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "40c8d212f016d065",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CSS/BFC 和IFC.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "464c26850abd0346",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "浏览器/浏览器输入URL到渲染过程-浏览器原理.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3e44adac9b9b8d87",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "浏览器/浏览器输入URL到渲染过程-浏览器原理.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9f0301fceeea422d",
+  "lastOpenFiles": [
+    "CSS/positon ：fixed  定位视界口改变问题.md",
+    "CSS/BFC 和IFC.md",
+    "CSS/HTML 中相关的元素屏幕坐标.md",
+    "CSS/box model 盒模型.md",
+    "CSS/大纲.md",
+    "Code/手写系列/promise/package.json",
+    "Code/手写系列/promise/package-lock.json",
+    "1 八股文/HTML CSS 大纲.md",
+    "CSS/层叠上下文 、层叠等级、层叠顺序 、 z-index.md",
+    "CSS/position属性.md",
+    "浏览器/浏览器输入URL到渲染过程-浏览器原理.md",
+    "浏览器/picture/chrome-v8-architecture.png",
+    "浏览器/picture/V8-RenderThread-oneFream.png",
+    "3d选择器流程.md",
+    "浏览器/picture/chrome-v8-architecture-old.jpg",
+    "Code/手写系列/1-继承的实现.js",
+    "Code/手写系列/5-手写apply、call、bind.js",
+    "Code/手写系列/2-instanceof.js",
+    "Code/手写系列/6-深浅拷贝.js",
+    "Code/手写系列/4-手动实现new .js",
+    "Code/手写系列/3-手写Object.create.js",
+    "网络/HTTPS.md",
+    "test.md",
+    "浏览器/V8 引擎/JS语言运行时的特性.md",
+    "网络/WebSocket数据帧格式.md",
+    "网络/HTTP2.md",
+    "网络/未命名.md",
+    "1 八股文/HTTP 大纲.md",
+    "JS/saync 原理.md",
+    "JS/async与Array filter联用.md",
+    "JS/动态类型转换.md",
+    "浏览器/V8 引擎/内存回收机制.md",
+    "浏览器/V8 引擎/概述.md",
+    "浏览器/v8思维导图.png"
+  ]
+}

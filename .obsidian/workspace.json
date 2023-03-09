@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "43248a37cb67d6c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "90713a48668da951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99bbdd2f6e46dfd0",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "vue设计与实现阅读/思维导图/一、框架设计概览.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74ead2f61094ceff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7352f508f91893f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59cf8be0bc6f75af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b7f26ea42ccf60e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "继承",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "3ab064d8b575a8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a19db2a2943dff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929889ceb14687b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vue设计与实现阅读/思维导图/一、框架设计概览.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0687c611bf3f7013",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "99bbdd2f6e46dfd0",
+  "lastOpenFiles": [
+    "vue设计与实现阅读/思维导图/一、框架设计概览.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/call-bind/CHANGELOG.md",
+    "2.Code-JavaScript/大纲.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/xhr_ie.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/xdr_ie.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/timers_ie.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/fake_xml_http_request.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/fake_xdomain_request.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/fake_timers.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/fake_server_with_clock.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/event.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/fake_server.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/lib/sinon/util/core.js",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/jade/node_modules/commander/Readme.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/jade/node_modules/commander/History.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/mocha/images/ok.png",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/mocha/images/error.png",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/which-typed-array/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/which-typed-array/CHANGELOG.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/util/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/underscore/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/to-iso-string/Readme.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/to-iso-string/History.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/supports-color/readme.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sinon/CONTRIBUTING.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/sigmund/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/samsam/Readme.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/ms/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/ms/History.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/mocha/CHANGELOG.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/minimatch/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/lru-cache/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/lolex/Readme.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/jade/jade.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/is-typed-array/README.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/is-typed-array/CHANGELOG.md",
+    "2.Code-JavaScript/手写系列/14-promise/node_modules/is-generator-function/README.md",
+    "浏览器/picture/V8-RenderThread-oneFream.png",
+    "2.Code-JavaScript/手写系列/promise/node_modules/mocha/images/ok.png",
+    "2.Code-JavaScript/手写系列/promise/node_modules/mocha/images/error.png",
+    "浏览器/picture/chrome-v8-architecture.png",
+    "浏览器/picture/chrome-v8-architecture-old.jpg"
+  ]
+}
